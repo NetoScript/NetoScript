@@ -18,25 +18,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&weight=500&size=22&duration=3000&pause=500&color=1D6685&multiline=true&width=750&height=140&lines=%24+whoami;Gchism94;%5BAKA+Greg+Chism%5D%F0%9F%A4%98;Educator+%7C+Data+Scientist+%7C+Behavioral+Ecologist;Thanks+for+visiting!+%F0%9F%92%9B)](https://git.io/typing-svg)
 
-<details>
-  <summary><b>:shipit: &nbsp; &nbsp;<h2> A little about me </h2> &nbsp;&nbsp;&nbsp; </b></summary>
-<p>
-  <ul>
-    <li> Passionate data science educator with a research background and over eight years of experience </li>
-    <li> Adept at harnessing data to uncover compelling stories and insights </li>
-    <li> Empowering others to leverage their data and make complex concepts accessible </li>
-    <li> Expanded expertise in data science tools, including inferential statistics, machine learning, containers, and programming languages </li>
-    <li> Capable of tackling a wide range of projects and challenges </li>
-    <li> Committed to sharing knowledge and guiding others on their data-driven journeys </li>
-    <li> Inspiring the next generation of data scientists and storytellers by connecting storytelling with data science </li>
-</details>
 
 
-  <summary><b> 🌎 &nbsp; &nbsp;<h2>Encontre-me na web </h2> &nbsp;&nbsp;&nbsp; </b></summary>
-<p>
-  <ul>
-    <li> <a href="Neto.CB#0001">discord </a></li>
-</ul>
+
+<li> <a href="https://discord.gg/c4jBd22ceq">discord </a></li>
+
 
 
 
