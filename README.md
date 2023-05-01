@@ -1,7 +1,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/NetoScript?style=social)](https://github.com/NetoScript?tab=followers)
 
 
-
+[TEXTO](https://discord.gg/c4jBd22ceq)
 
 
 ***
