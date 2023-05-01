@@ -42,21 +42,6 @@
   </ul>
 </details>
 
-<h2 align="left">Languages</h2>
-  
-![R](https://img.shields.io/badge/-R-000?&style=for-the-badge&logo=R)
-![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript)
-![Docker](https://img.shields.io/badge/-Docker-000?&style=for-the-badge&logo=Docker)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-css3-000?&style=for-the-badge&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000?&style=for-the-badge&logo=MySQL)
-  
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/Gchism94">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gchism94&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gchism94&theme=noctis_minimus&layout=compact" />
-</a>
 
 ![Snake animation](https://github.com/Gchism94/Gchism94/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
   
