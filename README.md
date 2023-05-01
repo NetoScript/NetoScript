@@ -47,69 +47,16 @@
         alt="cplusplus" width="40" height="40"
     /> 
  </a>
- <!-- java -->
+ <!-- cheatengine -->
  <a 
-    href="https://www.java.com" 
+    href="https://www.cheatengine.org" 
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-        alt="java" width="40" height="40"
+        src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73a0c553-6659-4fcc-8538-362b25615ee4/d3d20ly-56050e43-c8f1-477d-97a5-3f66424db4b0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczYTBjNTUzLTY2NTktNGZjYy04NTM4LTM2MmIyNTYxNWVlNFwvZDNkMjBseS01NjA1MGU0My1jOGYxLTQ3N2QtOTdhNS0zZjY2NDI0ZGI0YjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kW8WkEZUACWXVMdL6QHObLvDHk5yPY0lKk5lMuuyR4Q"
+        alt="CheatEngine" width="40" height="40"
     /> 
  </a> 
- <!-- bootstrap -->
- <a 
-    href="https://www.java.com" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg"
-        alt="java" width="40" height="40"
-    /> 
- </a> 
- <!-- html -->
- <a 
-    href="https://www.java.com" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="java" width="40" height="40"
-    /> 
- </a> 
- <!-- css -->
- <a 
-    href="https://www.java.com" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="java" width="40" height="40"
-    /> 
- </a> 
- <!-- js -->
- <a 
-    href="https://www.java.com" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="java" width="40" height="40"
-    /> 
- </a> 
- <!-- react -->
- <a 
-    href="https://www.java.com" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-        alt="java" width="40" height="40"
-    /> 
- </a> 
- <!-- semanticUI -->
- <a 
-    href="https://www.java.com" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/smeanticUI.png" 
-        alt="java" width="40" height="40"
-    /> 
- </a> 
+ 
  <!-- git -->
  <a 
     href="https://git-scm.com/"
@@ -119,16 +66,6 @@
         width="40" height="40"
     /> 
  </a> 
-<!--  astro -->
-  <a 
-    href="https://git-scm.com/"
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" alt="astro"
-        width="40" height="40"
-    /> 
- </a> 
-
 <br>
 
 ![Snake animation](https://github.com/Gchism94/Gchism94/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
