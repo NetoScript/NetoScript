@@ -1,7 +1,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/NetoScript?style=social)](https://github.com/NetoScript?tab=followers)
 
 
-![NestArch](https://cdn.discordapp.com/attachments/900205241331511299/1102352306005094460/image.png)
+
 
 
 ***
@@ -20,6 +20,8 @@
 
 
 ![Snake animation](https://github.com/Gchism94/Gchism94/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+  
+![NestArch](https://cdn.discordapp.com/attachments/900205241331511299/1102352306005094460/image.png)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
