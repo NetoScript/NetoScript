@@ -1,13 +1,12 @@
 [![GitHub Badge](https://img.shields.io/github/followers/NetoScript?style=social)](https://github.com/NetoScript?tab=followers)
 
-<!-- OLD VISITOR BADGE ![visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Gchism94.Gchism94&left_text=Visitors) -->
 
 ![NestArch](https://cdn.discordapp.com/attachments/900205241331511299/1102352306005094460/image.png)
 
 
 ***
 
-<h1 align="left">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="left">Greetings! <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="40"></h1>
 
 <table>
   <tr>
@@ -21,7 +20,7 @@
 
 
 
-<li> <a href="https://discord.gg/c4jBd22ceq">discord </a></li>
+<li> <a href="https://discord.gg/c4jBd22ceq">discord <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> </a></li>
 
 
 
