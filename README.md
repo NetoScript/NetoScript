@@ -1,12 +1,11 @@
 [![GitHub Badge](https://img.shields.io/github/followers/NetoScript?style=social)](https://github.com/NetoScript?tab=followers)
 
 
-[TEXTO](https://discord.gg/c4jBd22ceq)
-
 
 ***
 
-<h1 align="left">Discord! <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="40"></h1>
+<h1 align="left">Discord! <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="40"> </h1>
+[Neto.CB#0001](https://discord.gg/c4jBd22ceq)
 
 <table>
   <tr>
