@@ -6,7 +6,7 @@
 
 ***
 
-<h1 align="left">Greetings! <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="40"></h1>
+<h1 align="left">Discord! <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="40"></h1>
 
 <table>
   <tr>
