@@ -56,7 +56,6 @@
         width="40" height="40"
     /> 
  </a> 
-  
    <!-- cheatengine -->
  <a 
     href="https://www.cheatengine.org" 
@@ -66,7 +65,7 @@
         alt="CheatEngine" width="40" height="40"
     /> 
  </a> 
-<br>
+
 
 ![Snake animation](https://github.com/Gchism94/Gchism94/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
   
