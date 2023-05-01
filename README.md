@@ -2,8 +2,8 @@
 
 <!-- OLD VISITOR BADGE ![visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Gchism94.Gchism94&left_text=Visitors) -->
 
-![NestArch](https://github.com/Gchism94/Nest_Arch_ColonyOrganization/blob/main/Figures/NestArchFig.png)
-![Network](https://github.com/Gchism94/Nest_Arch_ColonyOrganization/blob/7814921f7ffe20ef07ec0a5557c57bed1e905fd0/Figures/Network.jpg)
+![NestArch](https://cdn.discordapp.com/attachments/900205241331511299/1102352306005094460/image.png)
+
 
 ***
 
