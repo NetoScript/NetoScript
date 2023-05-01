@@ -31,16 +31,13 @@
     <li> Inspiring the next generation of data scientists and storytellers by connecting storytelling with data science </li>
 </details>
 
-<details>
-  <summary><b> 🌎 &nbsp; &nbsp;<h2>Find me around the web </h2> &nbsp;&nbsp;&nbsp; </b></summary>
+
+  <summary><b> 🌎 &nbsp; &nbsp;<h2>Encontre-me na web </h2> &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
   <ul>
-    <li> <a href="https://gregtchism.com/">See my professional portfolio 💼</a></li>
-    <li> <a href="https://scholar.google.com/citations?user=ZVyMRmUAAAAJ&hl=en&oi=ao">Find my published research 📄</a></li>
-    <li> <a href="https://github.com/Gchism94/Research-compendiums-list/blob/main/README.md">Find my production level projects 📜</a></li>
-    <li> <a href="https://gregtchism.com/articles/">See my teaching materials 📝 </a></li>
-  </ul>
-</details>
+    <li> <a href="Neto.CB#0001">discord </a></li>
+</ul>
+
 
 
 ![Snake animation](https://github.com/Gchism94/Gchism94/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
