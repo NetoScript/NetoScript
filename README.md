@@ -1,4 +1,4 @@
-[![GitHub Badge](https://img.shields.io/github/followers/Gchism94?style=social)](https://github.com/Gchism94?tab=followers)
+[![GitHub Badge](https://img.shields.io/github/followers/NetoScript?style=social)](https://github.com/NetoScript?tab=followers)
 
 <!-- OLD VISITOR BADGE ![visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Gchism94.Gchism94&left_text=Visitors) -->
 
