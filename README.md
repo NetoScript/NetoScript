@@ -65,7 +65,14 @@
         alt="CheatEngine" width="40" height="40"
     /> 
  </a> 
-
+ <a 
+    href="https://hex-rays.com/ida-pro/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://cdn.discordapp.com/attachments/627282020430512138/1102965103571255306/IDA.png"
+        alt="IDAPro" width="40" height="40"
+    /> 
+ </a> 
 
 ![Snake animation](https://github.com/Gchism94/Gchism94/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
   
