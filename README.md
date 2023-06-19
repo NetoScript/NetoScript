@@ -79,6 +79,4 @@
 ![NestArch](https://cdn.discordapp.com/attachments/1119744066687615128/1119771615404773537/image.png)
 ![NestArch](https://cdn.discordapp.com/attachments/627282020430512138/1120189031909699635/Design_sem_nome_1_1.png)
   
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+
